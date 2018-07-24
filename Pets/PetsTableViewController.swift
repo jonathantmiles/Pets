@@ -10,7 +10,7 @@ import UIKit
 
 class PetsTableViewController: UITableViewController {
 
-    let array = ["Fancy", "Phantom", "Fluffy"]
+    let array = ["Fancy", "Phantom", "Fluffy", "Puff, the Magic Dragon", "Sonic the Hedgehog", "Archimedes (Merlin's Owl from Disney's The Sword in the Stone)"]
 
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         // #warning Incomplete implementation, return the number of rows
